@@ -1,0 +1,15 @@
+{
+  "name": "git_star_bot",
+  "version": "1.0.0",
+  "description": "a github bot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^17.1.0"
+  }
+}
